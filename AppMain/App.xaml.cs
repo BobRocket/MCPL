@@ -1,4 +1,4 @@
-﻿// MC-Player
+﻿// MCPL
 // Copyright (C) 2021 ScottSun and others who contributed to this file
 //
 // This program is free software: you can redistribute it and/or modify

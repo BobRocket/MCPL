@@ -6,11 +6,16 @@
         xmlns:pu="clr-namespace:Panuon.UI.Silver;assembly=Panuon.UI.Silver"
         xmlns:local="clr-namespace:AppMain"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MCPL启动器" Height="450" Width="800">
     <Grid>
         <ComboBox Height="30"
               pu:ComboBoxHelper.Header="Select one : "
               DisplayMemberPath="Id"
               pu:ComboBoxHelper.ItemHeight="30" SelectionChanged="ComboBox_SelectionChanged" Margin="30,30,563.6,363.2"/>
+        <Button Height="60"
+            Width="200"
+            Content="启动"
+            pu:ButtonHelper.ButtonStyle="Outline"
+            pu:ButtonHelper.CornerRadius="15" FontSize="36" Margin="30,100,563.6,263.2" Click="Button_Click"/>
     </Grid>
 </Window>

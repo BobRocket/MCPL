@@ -13,3 +13,6 @@ C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.csproj.Generat
 C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.csproj.CoreCompileInputs.cache
 C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.exe
 C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.pdb
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\bin\Debug\Panuon.UI.Silver.dll
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\App.baml
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.csproj.CopyComplete
