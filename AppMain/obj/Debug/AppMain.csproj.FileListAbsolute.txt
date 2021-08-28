@@ -16,3 +16,4 @@ C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.pdb
 C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\bin\Debug\Panuon.UI.Silver.dll
 C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\App.baml
 C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.csproj.CopyComplete
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\bin\Debug\KMCCC.Pro.dll

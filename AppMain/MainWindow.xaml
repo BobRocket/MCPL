@@ -9,6 +9,7 @@
         Title="MCPL启动器" Height="450" Width="800">
     <Grid>
         <ComboBox Height="30"
+              x:Name="VersionCombo"
               pu:ComboBoxHelper.Header="Select one : "
               DisplayMemberPath="Id"
               pu:ComboBoxHelper.ItemHeight="30" SelectionChanged="ComboBox_SelectionChanged" Margin="30,30,563.6,363.2"/>

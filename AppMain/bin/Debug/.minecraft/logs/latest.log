@@ -1,0 +1,8 @@
+[13:48:45] [main/INFO]: Setting user: ScottSun
+[13:48:45] [main/INFO]: (Session ID is token:03943067-4fb3-432b-ab81-e46589f205d8:b69c1a03141f3012a1444e89ab62ba7d)
+[13:48:46] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:48:46] [Client thread/INFO]: Reloading ResourceManager: Default
+[13:48:47] [Sound Library Loader/INFO]: Sound engine started
+[13:48:47] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:48:47] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:51:53] [Client thread/INFO]: Stopping!

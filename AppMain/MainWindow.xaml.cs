@@ -28,6 +28,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using KMCCC.Authentication;
 
 namespace AppMain
 {
@@ -36,9 +37,12 @@ namespace AppMain
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static LauncherCore Core = LauncherCore.Create();
         public MainWindow()
         {
             InitializeComponent();
+            var versions = Core.GetVersions().ToArray();
+            VersionCombo.ItemsSource = versions;//绑定数据源
         }
 
         private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -48,7 +52,18 @@ namespace AppMain
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            Core.JavaPath = @"C:\Program Files\Java\jre1.8.0_301\bin\javaw.exe";
+            var ver = (KMCCC.Launcher.Version)VersionCombo.SelectedItem;
+            var result = Core.Launch(new LaunchOptions
+            {
+                Version = ver, //Ver为Versions里你要启动的版本名字
+                MaxMemory = 1024, //最大内存，int类型
+                Authenticator = new OfflineAuthenticator("ScottSun"), //离线启动，ZhaiSoul那儿为你要设置的游戏名
+                //Authenticator = new YggdrasilLogin("邮箱", "密码", true), // 正版启动，最后一个为是否twitch登录
+                Mode = LaunchMode.MCLauncher//启动模式，这个我会在后面解释有哪几种
+                //Server = new ServerInfo { Address = "服务器IP地址", Port = "服务器端口" }, //设置启动游戏后，自动加入指定IP的服务器，可以不要
+                //Size = new WindowSize { Height = 768, Width = 1280 } //设置窗口大小，可以不要
+            });
         }
     }
 }
