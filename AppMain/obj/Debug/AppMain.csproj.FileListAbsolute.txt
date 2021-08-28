@@ -1,0 +1,15 @@
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\bin\Debug\AppMain.exe.config
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\bin\Debug\AppMain.exe
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\bin\Debug\AppMain.pdb
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.csprojAssemblyReference.cache
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\MainWindow.g.cs
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\App.g.cs
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain_MarkupCompile.cache
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain_MarkupCompile.lref
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\MainWindow.baml
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.g.resources
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.Properties.Resources.resources
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.csproj.GenerateResource.cache
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.csproj.CoreCompileInputs.cache
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.exe
+C:\Users\Sun\Documents\GitHub\MC-Player\AppMain\obj\Debug\AppMain.pdb
