@@ -71,9 +71,6 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="KMCCC">
-      <HintPath>.\KMCCC.dll</HintPath>
-    </Reference>
     <Reference Include="KMCCC.Pro">
       <HintPath>.\KMCCC.Pro.dll</HintPath>
     </Reference>
