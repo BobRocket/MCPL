@@ -22,8 +22,6 @@ C:\Users\Sun\Documents\GitHub\MCPL\AppMain\bin\Debug\AppMain.exe.manifest
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\bin\Debug\AppMain.application
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\bin\Debug\AppMain.exe
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\bin\Debug\AppMain.pdb
-C:\Users\Sun\Documents\GitHub\MCPL\AppMain\bin\Debug\KMCCC.Pro.dll
-C:\Users\Sun\Documents\GitHub\MCPL\AppMain\bin\Debug\Panuon.UI.Silver.dll
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\AppMain.csprojAssemblyReference.cache
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\MainWindow.g.cs
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\App.g.cs
@@ -41,3 +39,5 @@ C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\AppMain.application
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\AppMain.csproj.CopyComplete
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\AppMain.exe
 C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\AppMain.pdb
+C:\Users\Sun\Documents\GitHub\MCPL\AppMain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sun\Documents\GitHub\MCPL\AppMain\obj\Debug\AppMain.csproj.Fody.CopyLocal.cache
